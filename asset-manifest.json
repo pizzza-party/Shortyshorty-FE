@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/shortyshorty-fe/static/css/main.31d6cfe0.css",
-    "main.js": "/shortyshorty-fe/static/js/main.ea07582b.js",
+    "main.js": "/shortyshorty-fe/static/js/main.85bd5eda.js",
     "index.html": "/shortyshorty-fe/index.html",
-    "main.ea07582b.js.map": "/shortyshorty-fe/static/js/main.ea07582b.js.map"
+    "main.85bd5eda.js.map": "/shortyshorty-fe/static/js/main.85bd5eda.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ea07582b.js"
+    "static/js/main.85bd5eda.js"
   ]
 }
